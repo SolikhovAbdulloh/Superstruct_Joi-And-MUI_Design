@@ -15,7 +15,7 @@ function App() {
           return 0;
         }
         const Rand = Math.random() * 50;
-        return Math.min(oldprogress + Rand, 100);
+        return Math.min(oldprogress + Rand,100);
       });
     }, 500);
 

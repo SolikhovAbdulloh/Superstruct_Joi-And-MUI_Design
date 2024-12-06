@@ -33,7 +33,7 @@ function JoiFuc() {
     <div>
       <div>
         <form
-          className="w-[28%] bg-slate-500  p-4 mt-6 m-auto"
+          className="w-[28%] bg-slate-500 rounded-lg  p-4 mt-6 m-auto"
           onSubmit={handleSubmit(onsubmit)}
         >
           <p className="font-black size-[23px] text-center">Login</p>
